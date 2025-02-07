@@ -30,7 +30,7 @@ latest_posts:
 
 ---
 
-👋 Hey there, I'm Saran (Mighty) Burapachaisri! Born and raised in the busy streets of Bangkok, I am a current Mechanical Engineer with a Minor in Computer Science at the University of Illinois Urbana Champaign. I love bringing spontaneous ideas to life - whether it's engineering assistive device or coding up random projects (like this one!). This website is currently a work in progress, but feel free to stroll around! 
+👋 Hey there, I'm Saran (Mighty) Burapachaisri! Born and raised in the busy streets of Bangkok, I am a current Mechanical Engineer with a Minor in Computer Science at the University of Illinois Urbana Champaign. I love bringing spontaneous ideas to life - whether it's engineering assistive device or coding up random projects (like this one!). This website is currently a work in progress, but feel free to stroll around!   
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
